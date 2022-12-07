@@ -1,0 +1,15 @@
+// ----------------------------------------------------------------
+// This file contains all styles related to the header of the site.
+// ----------------------------------------------------------------
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  margin: 0 auto;
+  max-width: 1200px;
+
+  background-color: $bg-main;
+}

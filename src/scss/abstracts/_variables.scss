@@ -1,0 +1,15 @@
+// -------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -------------------------------------------------------
+
+
+// Responsive breakpoint map
+$breakpoints: (
+  'small': 960px,
+  'medium': 1200px,
+  'large': 1600px
+) !default;
+
+$bg-main: rgb(200, 200, 200);
+$bg-light: rgb(255, 255, 255);
+$bg-dark: rgb(136, 133, 130);
